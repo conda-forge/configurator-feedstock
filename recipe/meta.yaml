@@ -1,5 +1,5 @@
 {% set name = "configurator" %}
-{% set version = "2.6.0" %}
+{% set version = "3.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/configurator-{{ version }}.tar.gz
-  sha256: d8f34aebdbb39d5e5e6dc6b2b77e13c92d66b19a3c88d0b3f7860de928865237
+  sha256: 83a5f52434de26892c8b2d5e3618a187ae09f2aae1f2c945317e447d485956ed
 
 build:
   number: 0
