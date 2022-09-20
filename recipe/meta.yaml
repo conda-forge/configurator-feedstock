@@ -35,6 +35,7 @@ test:
 about:
   home: https://github.com/Simplistix/configurator
   summary: A library for building a configuration store from one or more layered configuration sources
+  doc_url: https://configurator.readthedocs.io/
   license: MIT
   license_file: docs/license.rst
 
